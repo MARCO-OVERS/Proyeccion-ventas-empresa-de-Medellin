@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyección de Activos: Análisis de Series de Tiempo (ARIMA) - Aburrá Sur
 
 ## Descripción
@@ -60,3 +61,6 @@ Este análisis transforma datos históricos en una herramienta de visión estrat
 
 ## Autor
 Marco Antonio Rolón Oliveros
+=======
+# Proyeccion-ventas-empresa-de-Medellin
+>>>>>>> bcc438245bc99b9063f3b9a11be6947cf294d113
