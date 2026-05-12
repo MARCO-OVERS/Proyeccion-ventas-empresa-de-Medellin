@@ -66,7 +66,7 @@ ggplot(datos_aburra, aes(x = anno, y = empleos)) +
 # ================================
 
 e_activo <- ts(datos_aburra$activos, 
-                frequency = 1,   # ¿frecuencia anuel ahi que?
+                frequency = 1,   
                 start = c(1950))
 
 
